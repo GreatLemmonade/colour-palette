@@ -1,0 +1,11 @@
+--IN CONTRAST TO WHITE/LIGHT--
+Old fasioned blue: #244a87
+Nostalgic blue: #246687
+Rusty hifi green-blue: #24877a
+
+--IN CONTRAST TO BLACK/DARK--
+Minimalist green: #b2dbd8
+Minimalist blue: #b2c1db
+Nostalgic red: #dbb2b2
+
+--DESIGNED BY ARYAN PATHAK--
