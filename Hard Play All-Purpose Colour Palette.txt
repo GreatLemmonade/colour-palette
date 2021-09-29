@@ -1,11 +1,16 @@
+Hard Play All-Purpose colour palette
+
 --IN CONTRAST TO WHITE/LIGHT--
 Old fasioned blue: #244a87
 Nostalgic blue: #246687
 Rusty hifi green-blue: #24877a
+Pure dark black: #000000
 
 --IN CONTRAST TO BLACK/DARK--
 Minimalist green: #b2dbd8
 Minimalist blue: #b2c1db
 Nostalgic red: #dbb2b2
+Marble white: #eeeeee
 
 --DESIGNED BY ARYAN PATHAK--
+Hand-picked colours, made by keeping in mind the contrast, great for design, the Hard Play All-Purpose Colour palette.
